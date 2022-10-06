@@ -1,0 +1,28 @@
+    body{
+      background-color: light gray;
+      margin: 0;
+    }
+    hr{
+      margin-top: 0;
+      border-style: none;
+      border-top-style: solid;
+      width: 20%;
+      border-width: 5px;
+    }
+    h1, h2 ,h3{
+      color: blue;
+
+
+    }
+
+    .g{
+     background-color: green;
+
+    }
+    .y{
+      background-color: yellow;
+      padding: 50px;
+          margin-right: 450px;
+          margin-left: 450px;
+          border: solid;
+    }
