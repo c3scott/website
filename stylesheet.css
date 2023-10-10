@@ -1,0 +1,81 @@
+
+    .ground{
+        background-color: rgb(131, 75, 37);
+        height: 30px;
+        position: relative;
+    }
+    .grass{
+        background-color: rgb(96, 226, 96);
+        border-radius: 100%;
+        height: 60px;
+
+    }
+    .sky{
+        background-color: rgb(159, 224, 221);
+    }
+    #introbutton{
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(61, 56, 56);
+        border-style: solid; 
+        border-radius: 70px; 
+        padding: 5px;
+        text-align: center;
+        position:static; 
+        top: 200px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100%;
+        height: 70px;
+    }
+    #introbutton:hover{
+        color: grey;
+        font-size: 85%;
+        
+    }
+    h1{
+        text-shadow: 2px 2px 5px gray;
+        text-align: center;
+    }
+    h2, .description{
+        margin: 0px;
+        color: rgb(216, 216, 216);
+        text-shadow: 2px 2px 2px black;
+    }
+    #pagetitle{
+        margin: 0px;
+    }
+    #selfie{
+        width: 200px; 
+        height: 261px;
+        border: solid;
+        border-radius: 10px;
+        border-color: rgb(49, 133, 67);
+        float: left;
+        margin-right: 5px;
+        
+    }
+    .pages{
+        clear: both;
+        text-align: center;
+    }
+    .pages a{
+        color: antiquewhite;
+        border: solid;
+        text-decoration: none;
+        padding: 8px 15px;
+        display: inline-block;
+    }
+    .pages a:hover{
+        background-color: rgb(90, 90, 90);
+    }
+    .pages a:active{
+        background-color: rgb(182, 182, 182);
+    }
+    .hpLabel{
+        background-color: white;
+    }
+    #userHPDisplay, #dragonHPDisplay{
+        background-color: greenyellow;
+    }
+
